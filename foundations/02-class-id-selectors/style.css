@@ -1,0 +1,19 @@
+.pinkBack {
+    background-color: #ff69b4;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#blueText {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.pinkBack#cF {
+    font-size: 24px;
+}
+
+.greenBack {
+    background-color: #7FFF00;
+    font-size: 24px;
+    font-weight: bold;
+}
